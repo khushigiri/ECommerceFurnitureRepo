@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Sofa",
+    "category": "Living Room",
+    "price": 499,
+    "color": "Grey",
+    "type": "Sofa",
+    "description": "Comfortable and stylish modern sofa.",
+    "images": ["/media/sofa1.jpg", "/media/sofa2.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Wooden Dining Table",
+    "category": "Dining",
+    "price": 799,
+    "color": "Brown",
+    "type": "Table",
+    "description": "Elegant dining table made from oak wood.",
+    "images": ["/media/table1.jpg"]
+  },
+  {
+    "id": 3,
+    "name": "Accent Chair",
+    "category": "Living Room",
+    "price": 299,
+    "color": "Blue",
+    "type": "Chair",
+    "description": "Stylish accent chair with soft fabric.",
+    "images": ["/media/chair1.jpg"]
+  }
+]
